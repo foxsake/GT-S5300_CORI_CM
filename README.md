@@ -1,1 +1,1 @@
-<h1>CM7 Kernel SGP</h1>
+<h1>CM7 Kernel for SGP</h1>
